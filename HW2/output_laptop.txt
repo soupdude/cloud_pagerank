@@ -1,0 +1,144 @@
+downloaded file_100.txt
+downloaded file_1000.txt
+downloaded file_10000.txt
+downloaded file_10100.txt
+downloaded file_10200.txt
+downloaded file_10300.txt
+downloaded file_10400.txt
+downloaded file_10500.txt
+downloaded file_10600.txt
+downloaded file_10700.txt
+downloaded file_10800.txt
+downloaded file_10900.txt
+downloaded file_1100.txt
+downloaded file_11000.txt
+downloaded file_11100.txt
+downloaded file_11200.txt
+downloaded file_11300.txt
+downloaded file_11400.txt
+downloaded file_11500.txt
+downloaded file_11600.txt
+downloaded file_11700.txt
+downloaded file_11800.txt
+downloaded file_11900.txt
+downloaded file_1200.txt
+downloaded file_12000.txt
+downloaded file_1300.txt
+downloaded file_1400.txt
+downloaded file_1500.txt
+downloaded file_1600.txt
+downloaded file_1700.txt
+downloaded file_1800.txt
+downloaded file_1900.txt
+downloaded file_200.txt
+downloaded file_2000.txt
+downloaded file_2100.txt
+downloaded file_2200.txt
+downloaded file_2300.txt
+downloaded file_2400.txt
+downloaded file_2500.txt
+downloaded file_2600.txt
+downloaded file_2700.txt
+downloaded file_2800.txt
+downloaded file_2900.txt
+downloaded file_300.txt
+downloaded file_3000.txt
+downloaded file_3100.txt
+downloaded file_3200.txt
+downloaded file_3300.txt
+downloaded file_3400.txt
+downloaded file_3500.txt
+downloaded file_3600.txt
+downloaded file_3700.txt
+downloaded file_3800.txt
+downloaded file_3900.txt
+downloaded file_400.txt
+downloaded file_4000.txt
+downloaded file_4100.txt
+downloaded file_4200.txt
+downloaded file_4300.txt
+downloaded file_4400.txt
+downloaded file_4500.txt
+downloaded file_4600.txt
+downloaded file_4700.txt
+downloaded file_4800.txt
+downloaded file_4900.txt
+downloaded file_500.txt
+downloaded file_5000.txt
+downloaded file_5100.txt
+downloaded file_5200.txt
+downloaded file_5300.txt
+downloaded file_5400.txt
+downloaded file_5500.txt
+downloaded file_5600.txt
+downloaded file_5700.txt
+downloaded file_5800.txt
+downloaded file_5900.txt
+downloaded file_600.txt
+downloaded file_6000.txt
+downloaded file_6100.txt
+downloaded file_6200.txt
+downloaded file_6300.txt
+downloaded file_6400.txt
+downloaded file_6500.txt
+downloaded file_6600.txt
+downloaded file_6700.txt
+downloaded file_6800.txt
+downloaded file_6900.txt
+downloaded file_700.txt
+downloaded file_7000.txt
+downloaded file_7100.txt
+downloaded file_7200.txt
+downloaded file_7300.txt
+downloaded file_7400.txt
+downloaded file_7500.txt
+downloaded file_7600.txt
+downloaded file_7700.txt
+downloaded file_7800.txt
+downloaded file_7900.txt
+downloaded file_800.txt
+downloaded file_8000.txt
+downloaded file_8100.txt
+downloaded file_8200.txt
+downloaded file_8300.txt
+downloaded file_8400.txt
+downloaded file_8500.txt
+downloaded file_8600.txt
+downloaded file_8700.txt
+downloaded file_8800.txt
+downloaded file_8900.txt
+downloaded file_900.txt
+downloaded file_9000.txt
+downloaded file_9100.txt
+downloaded file_9200.txt
+downloaded file_9300.txt
+downloaded file_9400.txt
+downloaded file_9500.txt
+downloaded file_9600.txt
+downloaded file_9700.txt
+downloaded file_9800.txt
+downloaded file_9900.txt
+12000 1386038
+Converged after 7 iterations (sum changed by 0.0000%)
+
+Top 5 pages by PageRank:
+file_1439.txt: 0.00017399
+file_7228.txt: 0.00016944
+file_1332.txt: 0.00016237
+file_11588.txt: 0.00012718
+file_10570.txt: 0.00012598
+
+Sum of all ranks (should be ~1.0): 0.9999999999999998
+12000
+Incoming Average: 115.50316666666667
+Incoming Min: 74
+Incoming Max: 153
+Incoming Median: 115
+Incoming Quintiles: [106, 113, 118, 124, 153]
+Outgoing Average: 115.50316666666667
+Outgoing Min: 1
+Outgoing Max: 323
+Outgoing Median: 103
+Outgoing Quintiles: [43, 82, 127, 185, 323]
+Best closeness: file_8985.txt (0.497368)
+Download+graph: 1574.5s | PageRank: 2.7s | Closeness: 389.4s
