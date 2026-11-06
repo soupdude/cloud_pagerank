@@ -1,0 +1,6 @@
+google-cloud-storage
+google-cloud-pubsub
+google-cloud-logging
+google-cloud-secret-manager
+cloud-sql-python-connector[pymysql]
+sqlalchemy

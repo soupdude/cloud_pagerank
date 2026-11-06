@@ -1,0 +1,8 @@
+cloud-sql-python-connector[pymysql]
+# PyMySQL 1.2.x crashes on MySQL 8.4's caching_sha2_password full authentication;
+# 1.1.x works.
+PyMySQL<1.2
+google-cloud-secret-manager
+google-cloud-storage
+pandas
+scikit-learn

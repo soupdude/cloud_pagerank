@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+timings.csv
+http-client
+.DS_Store
+.vscode/
